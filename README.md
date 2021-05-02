@@ -1,8 +1,8 @@
 ### Hi there 👋
-This is **HikariLan**,a normal coder  
+This is **HikariLan**,a normal coder.  
 My presonal blog: https://my.minecraft.kim  
 I'm a Chinese🇨🇳,and also a senior high school student.  
-「你好，世界!」 is the word "Hello World!" in Chinese!
+「你好，世界！」 is the sentence "Hello World!" in Chinese!
 
 ### At this time I'm good at:
 - Java
@@ -14,7 +14,7 @@ I'm a Chinese🇨🇳,and also a senior high school student.
 - HTML & CSS
 - JavaScript/TypeScript
 
-### Something I'm looking at and do not want to learn them instantly:
+### Something I'm following but do not want to learn them instantly:
 - C/C++
 - Rust
 
