@@ -1,16 +1,23 @@
 ### Hi there 👋
+This is **HikariLan**,a normal coder  
+My presonal blog: https://my.minecraft.kim  
+I'm a Chinese🇨🇳,and also a senior high school student.  
+「你好，世界!」 is the word "Hello World!" in Chinese!
 
-<!--
-**shaokeyibb/shaokeyibb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### At this time I'm good at:
+- Java
+- Kotlin
+- CSharp
 
-Here are some ideas to get you started:
+### Somgthing I'm interested in but may not good at:
+- Python
+- HTML & CSS
+- JavaScript/TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Something I'm looking at and do not want to learn them instantly:
+- C/C++
+- Rust
+
+By the way,I'm also a Minecraft Server Operator and a Miencraft Server Plugin Developer,welcomt to ⭐star my repo about Minecraft!
+
+To contract me,please follow my profile page to get more info about the information about my social account.
