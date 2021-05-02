@@ -20,4 +20,4 @@ I'm a Chinese🇨🇳,and also a senior high school student.
 
 By the way,I'm also a Minecraft Server Operator and a Miencraft Server Plugin Developer,welcomt to ⭐star my repo about Minecraft!
 
-To contract me,please follow my profile page to get more info about the information about my social account.
+To contact me,please follow my profile page to get more info about the information about my social account.
