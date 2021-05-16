@@ -17,6 +17,7 @@ I'm a Chinese🇨🇳,and also a senior high school student.
 ### Something I'm following but do not want to learn them instantly:
 - C/C++
 - Rust
+- Golang
 
 By the way,I'm also a Minecraft Server Operator and a Miencraft Server Plugin Developer,welcomt to ⭐star my repo about Minecraft!
 
