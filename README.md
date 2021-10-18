@@ -21,4 +21,7 @@ I come from China🇨🇳,and now I am a university student from Xi'An Universit
 
 By the way,I'm also a Minecraft Server Operator and a Miencraft Server Plugin Developer,welcomt to ⭐star my repo about Minecraft!
 
-To contact me,please follow my profile page to get more info about the information about my social account.
+To contact me,please follow my profile page to get more info about the information about my social account. 
+
+
+![](https://github-readme-stats.vercel.app/api?username=shaokeyibb&show_icons=true)
