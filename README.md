@@ -25,3 +25,4 @@ To contact me,please follow my profile page to get more info about the informati
 
 
 ![](https://github-readme-stats.vercel.app/api?username=shaokeyibb&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaokeyibb&layout=compact)
