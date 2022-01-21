@@ -1,28 +1,12 @@
 ### Hi there 👋
-This is **HikariLan**,a normal coder.  
-My homepage: https://www.minecraft.kim （In Chinese）  
-I come from China🇨🇳,and now I am a university student from Xi'An University of Finance and Economics.  
-「你好，世界！」 is the sentence "Hello World!" in Chinese!  
 
-### At this time I'm good at:
-- Java
-- Kotlin
+This is HikariLan, a high school student from Xi'An University of Finance and Economics, China.
 
-### Somgthing I'm interested in but may not good at:
-- Python
-- CSharp
-- HTML & CSS
-- JavaScript/TypeScript
+At this time I'm major in Java and Kotlin. But others also not bad. 🤗
 
-### Something I'm following but do not want to learn them instantly:
-- C/C++
-- Rust
-- Golang
+Welcome to go to my [home page](https://www.minecraft.kim) or [blog](https://my.minecraft.kim) to know me.
 
-By the way,I'm also a Minecraft Server Operator and a Miencraft Server Plugin Developer,welcomt to ⭐star my repo about Minecraft!
+To contact me,please follow my profile page to get more info about the information about my social account and emails.
 
-To contact me,please follow my profile page to get more info about the information about my social account. 
-
-
-![](https://github-readme-stats.vercel.app/api?username=shaokeyibb&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaokeyibb&layout=compact)
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaokeyibb&count_private=true&show_icons=true&include_all_commits=true&title_color=359697&icon_color=359697&hide_border=true" alt="HikariLan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaokeyibb&layout=compact&title_color=359697&icon_color=359697&hide_border=true" /> |
+| ------------- | ------------- |
