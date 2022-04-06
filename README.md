@@ -41,7 +41,7 @@ Currenting working at *Chongqing Yuanfeng Story Network Technology Co., Ltd*.
 - Battlefield I/V
 - more...
 
-## Contract Me
+## Contact Me
 - Email(Personal): shaokeyibb@126.com
 - Email(Work): hikarilan@complexstudio.net
 - Tencent QQ: 2191023046
