@@ -28,6 +28,7 @@ Currenting working at *Chongqing Yuanfeng Story Network Technology Co., Ltd*.
 - HTML & CSS ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) (Are those really code language? XD)
 - JavaScript/TypeScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 - Vue ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue%2Ejs&logoColor=white)
+- PHP
 
 ### Not major, but they seem interesting:
 - Rust ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
