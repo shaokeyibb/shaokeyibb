@@ -15,11 +15,12 @@ Currenting working at *Chongqing Yuanfeng Story Network Technology Co., Ltd*.
 
 **I'd rather swim in the ocean of binary than boring economics :)**
 
-## Code Language
+## What did I know
 
 ### Currently majoring in:
 - Java ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 - Kotlin ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+- Vue ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue%2Ejs&logoColor=white)
 
 ### Not very major, but at least know a lot:
 - Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,12 +28,13 @@ Currenting working at *Chongqing Yuanfeng Story Network Technology Co., Ltd*.
 - CSharp ![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c%20sharp&logoColor=white)
 - HTML & CSS ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) (Are those really code language? XD)
 - JavaScript/TypeScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-- Vue ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue%2Ejs&logoColor=white)
+- Rust ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+- Go ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - PHP
 
 ### Not major, but they seem interesting:
-- Rust ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-- Go ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+- Unity
+- Unreal
 
 ## Favorite Computer Games
 - Minecraft ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=Minecraft&logoColor=white)
