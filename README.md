@@ -9,7 +9,7 @@
 | [Personal Homepage](https://www.minecraft.kim) | [Personal Blog](https://my.minecraft.kim) |
 | ------------- | ------------- |
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaokeyibb&count_private=true&show_icons=true&include_all_commits=true&title_color=359697&icon_color=359697&hide_border=true" alt="HikariLan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaokeyibb&layout=compact&title_color=359697&icon_color=359697&hide_border=true" /> |
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaokeyibb&count_private=true&show_icons=true&include_all_commits=true&title_color=359697&icon_color=359697&hide_border=true" alt="HikariLan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaokeyibb&layout=compact&title_color=359697&icon_color=359697&hide_border=true"&langs_count=6 /> |
 | ------------- | ------------- |
 
 
