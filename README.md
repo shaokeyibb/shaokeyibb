@@ -12,7 +12,6 @@
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaokeyibb&count_private=true&show_icons=true&include_all_commits=true&title_color=359697&icon_color=359697&hide_border=true&theme=transparent" alt="HikariLan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaokeyibb&layout=compact&title_color=359697&icon_color=359697&hide_border=true&theme=transparent&langs_count=8&hide=HTML,CSS" /> |
 | ------------- | ------------- |
 
-
 ## About myself
 This is HikariLan, a student at *Xi'an University of Finance and Economics, China*, currently majoring in Finance. 
 
@@ -43,7 +42,9 @@ Currenting working at *Chongqing Yuanfeng Story Network Technology Co., Ltd*.
 - Unity
 - Unreal
 
+## Recently Activities
 
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HikariLan&layout=compact)
 
 ## Contact Me
 - Email(Personal): shaokeyibb@126.com
