@@ -48,7 +48,6 @@ This is HikariLan, a student at *Xi'an University of Finance and Economics, Chin
 
 ## Contact Me
 - Email(Personal): shaokeyibb@126.com
-- Email(Work): hikarilan@complexstudio.net
 - Tencent QQ: 2191023046
 
 **That's all, thanks for reading :)**
