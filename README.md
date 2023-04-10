@@ -15,7 +15,7 @@
 ## About myself
 This is HikariLan, a student at *Xi'an University of Finance and Economics, China*, currently majoring in Finance. 
 
-~~Currenting working at *Chongqing Yuanfeng Story Network Technology Co., Ltd*.~~ 2021.11 - 2023.4
+~~Currenting working at *Chongqing Yuanfeng Story Network Technology Co., Ltd*.~~ 2021.11 - 2022.4
 
 
 **I'd rather swim in the ocean of binary than boring economics :)**
