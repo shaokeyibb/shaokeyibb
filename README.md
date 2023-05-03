@@ -44,7 +44,7 @@ This is HikariLan, a student at *Xi'an University of Finance and Economics, Chin
 
 ## Recently Activities
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HikariLan&layout=compact)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HikariLan&range=all_time&layout=compact)
 
 ## Contact Me
 - Email(Personal): shaokeyibb@126.com
