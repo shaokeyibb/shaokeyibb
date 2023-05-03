@@ -47,7 +47,7 @@ This is HikariLan, a student at *Xi'an University of Finance and Economics, Chin
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HikariLan&range=all_time&layout=compact)
 
 ## Contact Me
-- Email(Personal): shaokeyibb@126.com
+- Email(Personal): hikarilan@minecraft.kim
 - Tencent QQ: 2191023046
 
 **That's all, thanks for reading :)**
