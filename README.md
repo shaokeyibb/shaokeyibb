@@ -13,7 +13,7 @@
 A student at *Xi'an University of Finance and Economics, China*, majoring in Finance.
 **I'd rather swim in the ocean of binary than boring economics :)**
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaokeyibb&count_private=true&show_icons=true&include_all_commits=true&title_color=359697&icon_color=359697&hide_border=true&theme=transparent" alt="HikariLan's github stats" /> <br/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaokeyibb&layout=compact&title_color=359697&icon_color=359697&hide_border=true&theme=transparent&langs_count=8" /> | ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HikariLan&range=all_time&layout=compact)
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaokeyibb&count_private=true&show_icons=true&include_all_commits=true&title_color=359697&icon_color=359697&hide_border=true&theme=transparent" alt="HikariLan's github stats" /> <br/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaokeyibb&layout=compact&title_color=359697&icon_color=359697&hide_border=true&theme=transparent&langs_count=8" /> | ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HikariLan&range=all_time&layout=compact&theme=transparent)
 | ------------- | ------------- |
 
 Contact me: <a href=＂mailto:hikarilan@minecraft.kim＂>hikarilan@minecraft.kim</a>
