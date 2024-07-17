@@ -15,9 +15,9 @@ Contact me: <a href=＂mailto:hikarilan@minecraft.kim＂>hikarilan@minecraft.kim
 
 ## Work
 - 2021.11 - 2022.4 **Game RD Intern** @ *Chongqing Yuanfeng Story Network Technology Co., Ltd*
-- 2023.7 - 2023.8 **Frontend RD Intern** @ *Aerial Photogrammetry and Remote Sensing Group Co., Ltd.*
-- 2024.2 - 2024.4 **QA Intern** @ *NIO*
-- 2024.4 - 2024.6 **QA Intern** @ *Baidu*
+- 2023.7 - 2023.9 **Frontend RD Intern** @ *Aerial Photogrammetry and Remote Sensing Group Co., Ltd.*
+- 2024.1 - 2024.4 **QA Intern** @ *NIO*
+- 2024.4 - 2024.7 **QA Intern** @ *Baidu*
 
 ## Open Source Contributions
 
