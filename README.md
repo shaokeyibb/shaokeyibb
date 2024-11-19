@@ -12,7 +12,7 @@ A student at *Xi'an University of Finance and Economics, China*, majoring in Fin
 
 Contact me: <a href=＂mailto:hikarilan@minecraft.kim＂>hikarilan@minecraft.kim</a>
 
-## Work
+## Work Experience
 - 2021.11 - 2022.4 **Game RD Intern** @ *Chongqing Yuanfeng Story Network Technology Co., Ltd*
 - 2023.7 - 2023.9 **Frontend RD Intern** @ *Aerial Photogrammetry and Remote Sensing Group Co., Ltd.*
 - 2024.1 - 2024.4 **QA Intern** @ *NIO*
