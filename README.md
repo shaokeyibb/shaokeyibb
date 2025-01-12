@@ -2,15 +2,15 @@
 
 <a title="github" target="_blank" href="https://github.com/shaokeyibb"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dshaokeyibb&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
 <a href="https://hits.sh/github.com/shaokeyibb/"><img alt="Hits" src="https://hits.sh/github.com/shaokeyibb.svg"/></a> 
-[<img src="https://img.shields.io/badge/HikariLan's%20Homepage-purple"/>](https://www.minecraft.kim)
-[<img src="https://img.shields.io/badge/HikariLan's%20Blog-purple"/>](https://my.minecraft.kim)
-[<img src="https://img.shields.io/badge/HikariLan's%20Resume-purple"/>](https://cv.minecraft.kim)
+[<img src="https://img.shields.io/badge/HikariLan's%20Homepage-purple"/>](https://hikarilan.life)
+[<img src="https://img.shields.io/badge/HikariLan's%20Blog-purple"/>](https://blog.hikarilan.life)
+[<img src="https://img.shields.io/badge/HikariLan's%20Resume-purple"/>](https://cv.hikarilan.life)
 
 A student at *Xi'an University of Finance and Economics, China*, majoring in Finance. 
 
 **I'd like to swim in the ocean of binaries rather than boring economics :)** 
 
-Contact me: <a href=＂mailto:hikarilan@minecraft.kim＂>hikarilan@minecraft.kim</a>
+Contact me: <a href=＂mailto:i@hikarilan.life＂>i@hikarilan.life</a>
 
 ## Work Experience
 - 2021.11 - 2022.4 **Game RD Intern** @ *Chongqing Yuanfeng Story Network Technology Co., Ltd*
