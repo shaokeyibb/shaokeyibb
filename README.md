@@ -17,7 +17,7 @@ Contact me: <a href=＂mailto:i@hikarilan.life＂>i@hikarilan.life</a>
 - 2023.7 - 2023.9 **Frontend RD Intern** @ *Aerial Photogrammetry and Remote Sensing Group Co., Ltd.*
 - 2024.1 - 2024.4 **QA Intern** @ *NIO*
 - 2024.4 - 2024.7 **QA Intern** @ *Baidu*
-- 2024.12 - Present **RD Intern** @ *TencentCloud*
+- 2024.12 - 2024.2 **RD Intern** @ *TencentCloud*
 
 ## Open Source Contributions
 
