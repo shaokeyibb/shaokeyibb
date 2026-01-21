@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/HikariLan's%20Blog-purple"/>](https://blog.hikarilan.life)
 [<img src="https://img.shields.io/badge/HikariLan's%20Resume-purple"/>](https://cv.hikarilan.life)
 
-A student at *Xi'an University of Finance and Economics, China*, majoring in Finance. 
+No longer a student at *Xi'an University of Finance and Economics, China* which majoring in Finance. 
 
 **I'd like to swim in the ocean of binaries rather than boring economics :)** 
 
