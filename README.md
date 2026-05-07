@@ -18,7 +18,7 @@ Contact me: <a href=＂mailto:i@hikarilan.life＂>i@hikarilan.life</a>
 - 2024.1 - 2024.4 **QA Intern** @ *NIO*
 - 2024.4 - 2024.7 **QA Intern** @ *Baidu*
 - 2024.12 - 2025.2 **Backend Developer Intern** @ *TencentCloud*
-- 2025.7 - Present **SDET** @ *Didi Global*
+- 2025.7 - 2026.5 **SDET** @ *Didi Global*
 
 ## Open Source Contributions
 
